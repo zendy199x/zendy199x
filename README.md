@@ -17,7 +17,7 @@ I am a frontend developer, I work with Javascript frameworks like [ReactJS](http
 - 💬 [Facebook](https://www.facebook.com/zendy199x)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zendy199x/)
 
-![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=zendy199x&show_icons=true)
+![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=zendy199x&theme=merko&show_icons=true)
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
