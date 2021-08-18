@@ -19,10 +19,10 @@ I am a frontend developer, I work with Javascript frameworks like [ReactJS](http
 
 <!-- ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=zendy199x&theme=merko&show_icons=true) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy199x&layout=compact&hide=html" alt="zendy199x" />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy199x&layout=compact&hide=html" alt="zendy199x" /></div>
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuanwar072&show_icons=true" alt="zendy199x" />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=zendy199x&show_icons=true" alt="zendy199x" /></div>
 
 <!-- ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) -->
