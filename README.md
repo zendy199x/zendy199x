@@ -14,8 +14,8 @@ I am a frontend developer, I work with Javascript frameworks like [ReactJS](http
 
 ### Check out my social medias:
 
-- 💬 [Facebook](https://www.facebook.com/zendy199x)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zendy199x/)
+<!-- - 💬 [Facebook](https://www.facebook.com/zendy199x)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zendy199x/) -->
 
 ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=zendy199x&theme=merko&show_icons=true)
 
